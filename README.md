@@ -1,12 +1,14 @@
 <div align="center">
   <img src="./assets/banner.png" alt="TRKS Software Banner" width="100%" />
 
-  # 🚀 TRKS Software
+  <br><br>
 
-  **Empowering Developers with Next-Generation DevOps Tooling & Productivity Solutions.**
+  [![Website](https://img.shields.io/badge/Official_Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://trks.com)
+  [![Email Us](https://img.shields.io/badge/Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trks.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 
-  [Website](https://trks.com) • [Contact Us](mailto:hello@trks.com) • [LinkedIn](#) • [Twitter/X](#)
-
+  <h3>Empowering Developers with Next-Generation DevOps Tooling & Productivity Solutions.</h3>
 </div>
 
 ---
@@ -15,7 +17,9 @@
 
 At **TRKS Software**, we specialize in building enterprise-grade tools that eliminate friction in the software development lifecycle. Our mission is to enhance developer productivity, streamline CI/CD pipelines, and bring clarity to complex engineering workflows. 
 
-We are the creators of powerful Azure DevOps extensions designed for modern engineering teams.
+We are the creators of powerful **Azure DevOps extensions** designed to keep modern engineering teams *in the zone*.
+
+<br>
 
 ## 🛠️ Our Tech Stack
 
@@ -28,24 +32,47 @@ We are the creators of powerful Azure DevOps extensions designed for modern engi
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </div>
 
+<br>
+
+---
+
 ## 🚀 Featured Products
 
-### 🎯 [Focus-Mode](https://marketplace.visualstudio.com/azuredevops)
-A premium extension that provides a distraction-free interface, automated time tracking, AI-powered ticket analysis, a standup generator, and a Git branch scaffolder. Designed to keep developers *in the zone*.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Focus-Mode</h3>
+      <p>A premium extension that provides a distraction-free interface, automated time tracking, AI-powered ticket analysis, a standup generator, and a Git branch scaffolder.</p>
+      <a href="https://marketplace.visualstudio.com/azuredevops">
+        <img src="https://img.shields.io/badge/View_on_Marketplace-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Focus Mode" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Sentinel Dashboard</h3>
+      <p>Monitor your active execution fabric. Get live data for running pipelines and classic release telemetry right inside your Azure DevOps environment in real-time.</p>
+      <a href="https://marketplace.visualstudio.com/azuredevops">
+        <img src="https://img.shields.io/badge/View_on_Marketplace-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Sentinel Dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📊 [Sentinel Dashboard](https://marketplace.visualstudio.com/azuredevops)
-Monitor your active execution fabric. Get live data for running pipelines and classic release telemetry right inside your Azure DevOps environment.
+<br>
 
 ---
 
 ## 📈 Open Source & Community
 
-We believe in giving back to the developer community. Check out our open-source repositories and guidelines on how to contribute below!
+We believe in giving back to the developer community. We are constantly building and releasing open-source utilities to make engineering easier. Check out our telemetry below!
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRKS-Software&show_icons=true&theme=radical&hide_border=true" alt="TRKS Software Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRKS-Software&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TRKS-SOFTWARE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="TRKS Software Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRKS-SOFTWARE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
 </div>
+
+<br>
 
 ---
 
