@@ -3,11 +3,6 @@
 
   <br><br>
 
-  [![Website](https://img.shields.io/badge/Official_Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://trks.com)
-  [![Email Us](https://img.shields.io/badge/Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trks.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-
   <h3>Empowering Developers with Next-Generation DevOps Tooling & Productivity Solutions.</h3>
 </div>
 
